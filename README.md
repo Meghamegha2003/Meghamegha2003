@@ -52,9 +52,10 @@ I am a highly motivated **Full Stack Developer** with a deep focus on building s
 
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Meghamegha2003&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meghamegha2003&layout=compact&theme=tokyonight&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meghamegha2003&show_icons=true&theme=tokyonight&border_radius=10&height=195" height="195" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghamegha2003&layout=compact&theme=tokyonight&border_radius=10&height=195" height="195" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meghamegha2003&theme=tokyonight" width="97%" />
 </p>
